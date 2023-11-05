@@ -7,6 +7,7 @@ public class class9 {
 		int t = 89;
 		int y = 44;
 		System.out.println(t);
-		System.out.println(o);
+		System.out.println(y);
+		System.out.println(t-y);
      }
 }
