@@ -8,6 +8,6 @@ public class class9 {
 		int b = 87;
 		System.out.println(b);
 		System.out.println(t);
-		System.out.println(b-t);
+		
      }
 }
